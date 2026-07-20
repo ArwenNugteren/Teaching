@@ -1,2 +1,1 @@
-# Teaching
-Teaching materials
+Collection of teaching resources, largely activities for running in classes. 
